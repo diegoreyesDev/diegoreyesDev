@@ -8,11 +8,11 @@ Cuento con experiencia digitalizando datos en organizaciones culturales, creando
 
 Me caracterizo por mi responsabilidad y tiempos de entrega, estoy en constante perfeccionamiento del desarrollo de aplicaciones Java para realizar la digitalización de actividades empresariales, con enfoque en reducir la curva de aprendizaje del usuario final.
 
-#Trabajos realizados:
-    [Viajes por Chile](https://github.com/diegoreyesDev/Prueba-Viajes-por-Chile). página web para mostrar los servicios prestados por una empresa.
-    [Control de Destinos](https://github.com/diegoreyesDev/Java-Control-de-Destinos). Aplicación web que permite asignar viajes a pasajeros y almacenarlos en una base de datos.
+## Trabajos realizados:
+* [Viajes por Chile](https://github.com/diegoreyesDev/Prueba-Viajes-por-Chile). página web para mostrar los servicios prestados por una empresa.
+* [Control de Destinos](https://github.com/diegoreyesDev/Java-Control-de-Destinos). Aplicación web que permite asignar viajes a pasajeros y almacenarlos en una base de datos.
 
-# Contacto
+## Contacto
 * [LinkedIn](https://www.linkedin.com/in/diegoreyes-dev/).
 * diegoreyes.dev@gmail.com
 
