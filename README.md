@@ -12,13 +12,24 @@ Me caracterizo por mi responsabilidad y tiempos de entrega, estoy en constante p
     [Viajes por Chile](https://github.com/diegoreyesDev/Prueba-Viajes-por-Chile). página web para mostrar los servicios prestados por una empresa.
     [Control de Destinos](https://github.com/diegoreyesDev/Java-Control-de-Destinos). Aplicación web que permite asignar viajes a pasajeros y almacenarlos en una base de datos.
 
-#Contacto
-    [LinkedIn](https://www.linkedin.com/in/diegoreyes-dev/).
-    [Gmail](diegoreyes.dev@gmail.com).
+# Contacto
+* [LinkedIn](https://www.linkedin.com/in/diegoreyes-dev/).
+* [Gmail](diegoreyes.dev@gmail.com).
 
-#Habilidades: Desarrollador Full Stack Java
+# Habilidades aprendidas en Bootcamp Talento Digital
+## Desarrollador Full Stack Java
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) * [BOOTSTRAP](https://getbootstrap.com/docs/5.1/getting-started/introduction/) * [MVC](https://developer.mozilla.org/es/docs/Glossary/MVC) * [JEE](https://www.ibm.com/docs/es/odm/8.5.1?topic=application-java-se-java-ee-applications) * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) * [ORACLE SQL](https://www.oracletutorial.com/) * [MAVEN](https://maven.apache.org/) * [SPRING](https://spring.io/) * [JS](https://developer.mozilla.org/es/docs/Web/JavaScript) * [JAVA](https://www.w3schools.com/java/) * [GIT](https://git-scm.com/) * [GitBash](https://www.gitkraken.com/blog/what-is-git-bash)   
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [BOOTSTRAP](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
+* [MVC](https://developer.mozilla.org/es/docs/Glossary/MVC)
+* [JEE](https://www.ibm.com/docs/es/odm/8.5.1?topic=application-java-se-java-ee-applications)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [ORACLE SQL](https://www.oracletutorial.com/) * [MAVEN](https://maven.apache.org/)
+* [SPRING](https://spring.io/)
+* [JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* [JAVA](https://www.w3schools.com/java/)
+* [GIT](https://git-scm.com/)
+* [GitBash](https://www.gitkraken.com/blog/what-is-git-bash)   
     
 
 <!--
