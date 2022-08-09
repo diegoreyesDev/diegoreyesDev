@@ -19,28 +19,12 @@ Me caracterizo por mi responsabilidad y tiempos de entrega, estoy en constante p
 # Habilidades aprendidas en Bootcamp Talento Digital
 ## Desarrollador Full Stack Java
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) [BOOTSTRAP](https://getbootstrap.com/docs/5.1/getting-started/introduction/) [JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [BOOTSTRAP](https://getbootstrap.com/docs/5.1/getting-started/introduction/) y [JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
+* [JAVA](https://www.w3schools.com/java/)
+* [ORACLE SQL](https://www.oracletutorial.com/)
 * [MVC](https://developer.mozilla.org/es/docs/Glossary/MVC)
 * [JEE](https://www.ibm.com/docs/es/odm/8.5.1?topic=application-java-se-java-ee-applications)
-* [ORACLE SQL](https://www.oracletutorial.com/)
 * [MAVEN](https://maven.apache.org/)
 * [SPRING](https://spring.io/)
-* [JAVA](https://www.w3schools.com/java/)
 * [GIT](https://git-scm.com/)
-* [GitBash](https://www.gitkraken.com/blog/what-is-git-bash)   
-    
-
-<!--
-**diegoreyesDev/diegoreyesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [GitBash](https://www.gitkraken.com/blog/what-is-git-bash)
