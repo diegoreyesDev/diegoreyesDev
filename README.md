@@ -18,9 +18,7 @@ Me caracterizo por mi responsabilidad y tiempos de entrega, estoy en constante p
 
 #Habilidades: Desarrollador Full Stack Java
 
-    [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) [BOOTSTRAP](https://getbootstrap.com/docs/5.1/getting-started/introduction/)  [MVC](https://developer.mozilla.org/es/docs/Glossary/MVC) [JEE](https://www.ibm.com/docs/es/odm/8.5.1?topic=application-java-se-java-ee-applications)
-    [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)         [ORACLE SQL](https://www.oracletutorial.com/)      [MAVEN](https://maven.apache.org/)     [SPRING](https://spring.io/)
-    [JS](https://developer.mozilla.org/es/docs/Web/JavaScript)          [JAVA](https://www.w3schools.com/java/)            [GIT](https://git-scm.com/)         [GitBash](https://www.gitkraken.com/blog/what-is-git-bash)   
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) * [BOOTSTRAP](https://getbootstrap.com/docs/5.1/getting-started/introduction/) * [MVC](https://developer.mozilla.org/es/docs/Glossary/MVC) * [JEE](https://www.ibm.com/docs/es/odm/8.5.1?topic=application-java-se-java-ee-applications) * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) * [ORACLE SQL](https://www.oracletutorial.com/) * [MAVEN](https://maven.apache.org/) * [SPRING](https://spring.io/) * [JS](https://developer.mozilla.org/es/docs/Web/JavaScript) * [JAVA](https://www.w3schools.com/java/) * [GIT](https://git-scm.com/) * [GitBash](https://www.gitkraken.com/blog/what-is-git-bash)   
     
 
 <!--
