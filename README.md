@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hola👋 gracias por visitar mi perfil
+
+Mi nombre es Diego Reyes Pallacan, soy desarrollador Full Stack Java de Bootcamp Talento Digital desarrollado por Edutecno, gestor cultural y de proyectos e instructor de artes marciales.
+
+Vivo en la la comuna de Talagante en la region Metropolitana, donde me desempeño como gestor cultural encargado de la digitalización de datos en distintas organizaciones de la Provincia.
+
+Cuento con experiencia digitalizando datos en organizaciones culturales, creando bases de datos de participantes, enfocado en brindar un acceso rápido y simplificado a las inscripciones, complementado con las habilidades adquiridas en Edutecno, programación en lenguaje Java (aplicaciones web dinámicas, JEE, Spring Boot, Spring MVC, Spring Security, JPA), base de datos Oracle; también en lenguaje HTML, CSS y Javascript(básico), me otorgan las capacidades técnicas necesarias para desenvolverme en la la industria de las tecnologias.
+
+Considerando también que me caracterizo por mi responsabilidad y tiempos de entrega, que estoy en constante perfeccionamiento del desarrollo de aplicaciones Java para realizar la digitalización de actividades empresariales, con enfoque en reducir la curva de aprendizaje del usuario final.
+
 
 <!--
 **diegoreyesDev/diegoreyesDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
