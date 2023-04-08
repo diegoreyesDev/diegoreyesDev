@@ -1,10 +1,10 @@
  ### Hola👋 gracias por visitar mi perfil
 
-Soy Diego Reyes Pallacan, un desarrollador Full Stack Java con experiencia en aplicaciones web dinámicas, JEE, Spring Boot, Spring MVC, Spring Security y JPA, así como en base de datos Oracle. También tengo conocimientos en lenguaje HTML, CSS y Javascript (básico). Además de mi experiencia como desarrollador, soy gestor cultural, gestor de proyectos e instructor de artes marciales.
+Soy Diego Reyes Pallacan, un desarrollador Full Stack Java con experiencia en el desarrollo de aplicaciones web dinámicas utilizando frameworks como JEE, Spring Boot y Spring MVC. También poseo sólidos conocimientos de SQL en Oracle y habilidades en JPA para trabajar con bases de datos. Adicionalmente, tengo conocimientos en lenguajes web como HTML, CSS y JavaScript, con experiencia básica en su implementación.
 
-Actualmente vivo en la comuna de Talagante en la región Metropolitana, donde me desempeño como gestor cultural encargado de la digitalización de datos en distintas organizaciones de la comuna. Me apasiona el desarrollo de aplicaciones Java y me interesa perfeccionarme en esta área para realizar la digitalización de actividades empresariales y reducir la curva de aprendizaje del usuario final.
+Además de mi experiencia como desarrollador, soy gestor cultural e instructor de artes marciales. Actualmente, me encuentro explorando el campo de la orfebrería mapuche y busco aprender más sobre este arte ancestral.
 
-También estoy iniciando en orfebrería mapuche y busco aprender más sobre este campo. Si buscas un desarrollador Full Stack Java con habilidades en gestión de proyectos y una mentalidad creativa y orientada a soluciones, contáctame. Estoy siempre dispuesto a aprender y enfrentar nuevos desafíos en el mundo del desarrollo de software.
+Como profesional, estoy interesado en seguir perfeccionándome en el área del desarrollo de software y aplicaciones empresariales, y estoy siempre dispuesto a enfrentar nuevos desafíos y aprender nuevas habilidades. Si buscas un desarrollador Full Stack Java con habilidades en gestión de proyectos y una mentalidad creativa y orientada a soluciones, estaré encantado de conversar contigo.
 
 ## Trabajos realizados:
 * [Viajes por Chile](https://github.com/diegoreyesDev/Prueba-Viajes-por-Chile). página web para mostrar los servicios prestados por una empresa.
