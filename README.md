@@ -1,10 +1,10 @@
  ### Hola👋 gracias por visitar mi perfil
 
-Soy Diego Reyes, un desarrollador Full Stack Java con experiencia en aplicaciones web dinámicas, JEE, Spring Boot, Spring MVC, Spring Security y JPA, así como en base de datos Oracle. También tengo conocimientos en lenguaje HTML, CSS y Javascript (básico). Además de mi experiencia como desarrollador, soy gestor cultural, gestor de proyectos e instructor de artes marciales.
+Soy Diego Reyes Pallacan, un desarrollador Full Stack Java con experiencia en aplicaciones web dinámicas, JEE, Spring Boot, Spring MVC, Spring Security y JPA, así como en base de datos Oracle. También tengo conocimientos en lenguaje HTML, CSS y Javascript (básico). Además de mi experiencia como desarrollador, soy gestor cultural, gestor de proyectos e instructor de artes marciales.
 
 Actualmente vivo en la comuna de Talagante en la región Metropolitana, donde me desempeño como gestor cultural encargado de la digitalización de datos en distintas organizaciones de la comuna. Me apasiona el desarrollo de aplicaciones Java y me interesa perfeccionarme en esta área para realizar la digitalización de actividades empresariales y reducir la curva de aprendizaje del usuario final.
 
-Si buscas un desarrollador Full Stack Java con habilidades en gestión de proyectos y una mentalidad creativa y orientada a soluciones, contáctame. Estoy siempre dispuesto a aprender y enfrentar nuevos desafíos en el mundo del desarrollo de software.
+También estoy iniciando en orfebrería mapuche y busco aprender más sobre este campo. Si buscas un desarrollador Full Stack Java con habilidades en gestión de proyectos y una mentalidad creativa y orientada a soluciones, contáctame. Estoy siempre dispuesto a aprender y enfrentar nuevos desafíos en el mundo del desarrollo de software.
 
 ## Trabajos realizados:
 * [Viajes por Chile](https://github.com/diegoreyesDev/Prueba-Viajes-por-Chile). página web para mostrar los servicios prestados por una empresa.
